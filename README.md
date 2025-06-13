@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Roshni Sah and I'm a Rookie Learner?</h1>
+<h1 align="center">Hey 👋 I'm Roshni Sah and I'm a Rookie Learner</h1>
 
 ###
 
