@@ -2,8 +2,7 @@
 Hey 👋 I'm Roshni Sah and I'm a Rookie Learner
 First-Year BSc.IT Student at Presidential Graduate School  <br>📍 From: Kathmandu, Nepal  <br>🛡️ Member @ Software Club |
 
-![](https://github-readme-stats.vercel.app/api?username=Roshrosh756&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Roshrosh756&theme=tokyonight&hide_border=false)<br/>
+
 
 
 
